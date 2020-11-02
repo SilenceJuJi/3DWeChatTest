@@ -1,0 +1,176 @@
+[       1s] Executed build program. Created build graph with 1295 nodes.
+[     2s] Build frontend of artifacts\tundra_tinyracing-wasm_tag.dag ran (build file timestamp changed: C:/Program Files (x86)/Microsoft Visual Studio/Installer/vswhere.exe)
+[           0s] Delete 10 artifact files that are no longer in use. (like artifacts\TinyRacing\tinyracing-wasm\TinyRacing.mem)
+[   4/1163  0s] WriteResponseFile artifacts/rsp/15839259658979813454.rsp
+[  48/1163  0s] WriteResponseFile artifacts/rsp/1583917764060794018.rsp
+[  50/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/97162039e7f37ef4ca7440c5715f50be
+[  51/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/56337f6fbe01e6876f3e81bc6a5252fa
+[  52/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/3ea61da37b3aac0156169a9ba6937509
+[  53/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/bb8a1fae9eeeead225ebc055cb4e6465
+[  54/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/cefab02dd7aeb5b34f0a42cda5e64091
+[  55/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/4241e1119687fe242c6c0c35923af253
+[  56/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/9d19bfa7f735229eb3e97944fc897bb6
+[  57/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/41fa3d13b4a2d8697fe7157ef211e2c5
+[  58/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/ae022dcb960ad48f6dd206ccbaf322ab
+[  59/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/2398e3a80ae868f9fd061f28c7b5eef8
+[  60/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/46b433b264c69cbd39f04ad2e5d12be8
+[  61/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/7e2bdf3c686c082e25c26b67256cf788
+[  62/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/3dd02a602bc72c20fa6d1bdfd89dad58
+[  63/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/4b9db190ef77844f5608081e437a049c
+[  64/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/f7cc7397cd92dd5f17076dbc6c7f4aaf
+[  65/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/3699af455a5a69cfe44393862479cfd9
+[  66/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/8d07653835368e6103693d04b2ae36ba
+[  67/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/a7490fa37e15144c50fc9ec419e25b90
+[  68/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/f8ba848cc0dd5c011c6a6873bd42198b
+[  71/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/0a08459ecc186da59de8772f4195ad88
+[  72/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/88503175a6fe31785e924513b399281c
+[  75/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/aab8fbd63e0dba81837b589e2e6c2ee1
+[  77/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/fa6693842c3800217404d5305467cbea
+[  78/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/db3e2d0525ff08001bd1b2e60c09d977
+[ 465/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/ec57c965ef950ee7023651579e66d039
+[ 466/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/efc37868bfb6835f4c2b377bc6046f74
+[ 467/1163  0s] CopyTool ../../Builds/tinyracing-wasm/Data/3b843735e2bd998937132a1e7a3aa64e
+[ 643/1163  5s] C_WebGL_wasm artifacts/lib_unity_lowlevel/tinyracing-wasm/u785/dummy.o
+[ 644/1163  5s] C_WebGL_wasm artifacts/lib_unity_zerojobs/tinyracing-wasm/u785/dummy.o
+[ 645/1163  5s] C_WebGL_wasm artifacts/lib_unity_tiny_io/tinyracing-wasm/kdub/AndroidLoader.o
+[ 646/1163  5s] C_WebGL_wasm artifacts/lib_unity_tiny_burst/tinyracing-wasm/u785/dummy.o
+[ 647/1163  6s] C_WebGL_wasm artifacts/lib_unity_tiny_io/tinyracing-wasm/u785/dummy.o
+[ 648/1163  6s] C_WebGL_wasm artifacts/lib_unity_lowlevel/tinyracing-wasm/2dj3/guard.o
+[ 649/1163  7s] C_WebGL_wasm artifacts/lib_unity_lowlevel/tinyracing-wasm/2dj3/allocators.o
+[ 650/1163  7s] C_WebGL_wasm artifacts/lib_unity_tiny_burst/tinyracing-wasm/c7o2/BurstNativeSupport.o
+[ 651/1163  7s] C_WebGL_wasm artifacts/lib_unity_zerojobs/tinyracing-wasm/8wer/ZeroJobsNativeSupport.o
+[ 652/1163  7s] C_WebGL_wasm artifacts/lib_unity_zerojobs/tinyracing-wasm/8wer/PlayerConnectionNativeSupport.o
+[ 653/1163  7s] C_WebGL_wasm artifacts/lib_unity_lowlevel/tinyracing-wasm/2dj3/BurstInit.o
+D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\PackageCache\com.unity.dots.runtime@0.29.0-preview.22\LowLevelSupport~\Unity.LowLevel\cpp~\BurstInit.cpp:44:24: warning: object backing the pointer will be destroyed at the end of the full-expression [-Wdangling-gsl]
+    const char* name = (string(libname) + ".so").c_str();
+                       ^~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+[ 654/1163  1s] C_WebGL_wasm artifacts/lib_unity_entities/tinyracing-wasm/u785/dummy.o
+[ 655/1163  1s] C_WebGL_wasm artifacts/lib_unity_tiny_core/tinyracing-wasm/u785/dummy.o
+[ 656/1163  1s] C_WebGL_wasm artifacts/lib_unity_entities/tinyracing-wasm/h9f2/LZ4Wrapper.o
+[ 657/1163  7s] C_WebGL_wasm artifacts/lib_unity_tiny_io/tinyracing-wasm/gf46/TinyIO.o
+[ 658/1163  1s] C_WebGL_wasm artifacts/lib_unity_tiny_image2d_web/tinyracing-wasm/u785/dummy.o
+[ 659/1163  1s] C_WebGL_wasm artifacts/lib_unity_tiny_core/tinyracing-wasm/bbpi/Log.o
+[ 680/1163  0s] C_WebGL_wasm artifacts/lib_unity_platforms_common/tinyracing-wasm/u785/dummy.o
+[ 682/1163  0s] C_WebGL_wasm artifacts/lib_unity_platforms_common/tinyracing-wasm/etdj/macOSWrapper.o
+[ 683/1163  0s] C_WebGL_wasm artifacts/lib_unity_platforms_common/tinyracing-wasm/yoln/WindowsWrapper.o
+[ 698/1163  0s] C_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/tinyracing-wasm/u785/dummy.o
+[ 929/1163  3s] C_WebGL_wasm artifacts/lib_unity_entities/tinyracing-wasm/wly1/lz4.o
+[ 930/1163  2s] C_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/tinyracing-wasm/ay2q/BufferedCallbacks.o
+[1037/1163  2s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/tinyracing-wasm/r8wi/Time.o
+[1038/1163  2s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/tinyracing-wasm/6l9f/HTMLWrapper.o
+[1039/1163  2s] C_WebGL_wasm artifacts/lib_unity_tiny_audio_web/tinyracing-wasm/u785/dummy.o
+[1040/1163  2s] C_WebGL_wasm artifacts/lib_unity_tiny_input_web/tinyracing-wasm/u785/dummy.o
+[1041/1163  2s] C_WebGL_wasm artifacts/lib_unity_tiny_web/tinyracing-wasm/hc2i/SendMessageCallbackHandler.o
+[1042/1163  2s] C_WebGL_wasm artifacts/lib_unity_tiny_web/tinyracing-wasm/hc2i/HTMLWrapper.o
+[1043/1163  2s] C_WebGL_wasm artifacts/lib_unity_platforms_runloop/tinyracing-wasm/u785/dummy.o
+[1044/1163  2s] C_WebGL_wasm artifacts/lib_unity_tiny_web/tinyracing-wasm/u785/dummy.o
+[1045/1163  2s] Lib_WebGL_wasm artifacts/lib_unity_lowlevel/tinyracing-wasm/lib_unity_lowlevel.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1046/1163  2s] Lib_WebGL_wasm artifacts/libil2cpptiny/tinyracing-wasm/libil2cpptiny.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1047/1163  2s] Lib_WebGL_wasm artifacts/lib_unity_tiny_io/tinyracing-wasm/lib_unity_tiny_io.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1048/1163  2s] Lib_WebGL_wasm artifacts/lib_unity_tiny_burst/tinyracing-wasm/lib_unity_tiny_burst.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1049/1163  2s] TypeRegGen artifacts/TinyRacing/tinyracing-wasm/post_typereg/TinyRacing.dll (+76 others)
+[1050/1163  2s] Lib_WebGL_wasm artifacts/lib_unity_zerojobs/tinyracing-wasm/lib_unity_zerojobs.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1051/1163  1s] Lib_WebGL_wasm artifacts/lib_unity_platforms_common/tinyracing-wasm/lib_unity_platforms_common.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1052/1163  1s] Lib_WebGL_wasm artifacts/lib_unity_platforms_runloop/tinyracing-wasm/lib_unity_platforms_runloop.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1053/1163  1s] Lib_WebGL_wasm artifacts/lib_unity_entities/tinyracing-wasm/lib_unity_entities.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1054/1163  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_core/tinyracing-wasm/lib_unity_tiny_core.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1055/1163  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_image2d_web/tinyracing-wasm/lib_unity_tiny_image2d_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1056/1163  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_web/tinyracing-wasm/lib_unity_tiny_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1057/1163  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_audio_web/tinyracing-wasm/lib_unity_tiny_audio_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1058/1163  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_input_web/tinyracing-wasm/lib_unity_tiny_input_web.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[1059/1163  0s] Lib_WebGL_wasm artifacts/lib_unity_tiny_rendering_native/tinyracing-wasm/lib_unity_tiny_rendering_native.bc
+emcc: warning: Assuming object file output in the absence of `-c`, based on output filename. Add with `-c` or `-r` to avoid this warning [-Wemcc]
+[BUSY      10s] Burst artifacts/TinyRacing/tinyracing-wasm_bursted/TinyRacing.dll (+76 others)
+[1060/1163 11s] Burst artifacts/TinyRacing/tinyracing-wasm_bursted/TinyRacing.dll (+76 others)
+Compiled 1 library, containing 242 methods, in 11682ms using 10 threads: D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\DotsRuntimeBuild\artifacts\TinyRacing\tinyracing-wasm_bursted\bclobj\lib_burst_generated_part_3.wasm,D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\DotsRuntimeBuild\artifacts\TinyRacing\tinyracing-wasm_bursted\bclobj\lib_burst_generated_part_4.wasm,D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\DotsRuntimeBuild\artifacts\TinyRacing\tinyracing-wasm_bursted\bclobj\lib_burst_generated_part_1.wasm,D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\DotsRuntimeBuild\artifacts\TinyRacing\tinyracing-wasm_bursted\bclobj\lib_burst_generated_part_0.wasm,D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\DotsRuntimeBuild\artifacts\TinyRacing\tinyracing-wasm_bursted\bclobj\lib_burst_generated_part_2.wasm,D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\DotsRuntimeBuild\artifacts\TinyRacing\tinyracing-wasm_bursted\bclobj\lib_burst_generated_part_3_merged.wasm
+*** Bee requires additional run (29.52 seconds), 76 items updated
+[       1s] Executed build program. Created build graph with 1295 nodes.
+[     1s] Build frontend of artifacts\tundra_tinyracing-wasm_tag.dag ran (ForceDagRegen option used)
+[  50/1163  0s] WriteResponseFile artifacts/rsp/15839259658979813454.rsp
+[1061/1163  3s] UnityLinker artifacts/TinyRacing/tinyracing-wasm_stripped/TinyRacing.dll (+76 others)
+[BUSY       6s] Il2Cpp artifacts/TinyRacing/tinyracing-wasm_stripped/il2cpp-src
+[1062/1163  6s] Il2Cpp artifacts/TinyRacing/tinyracing-wasm_stripped/il2cpp-src
+Running il2cpp.exe in server GC mode.
+*** Bee requires additional run (11.83 seconds), 3 items updated
+[       1s] Executed build program. Created build graph with 1295 nodes.
+[     1s] Build frontend of artifacts\tundra_tinyracing-wasm_tag.dag ran (ForceDagRegen option used)
+[1064/1163  4s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods.o
+[1065/1163  5s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods1.o
+[1066/1163  5s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods2.o
+[1067/1163  6s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods5.o
+[1068/1163  6s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods7.o
+[1069/1163  7s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods4.o
+[1070/1163  8s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods8.o
+[1071/1163  8s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods6.o
+[1072/1163  8s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods3.o
+[1074/1163  9s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/GenericMethods9.o
+[1076/1163  9s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics.o
+[1081/1163  5s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics3.o
+[1082/1163  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Il2CppGenericComDefinitions.o
+[1083/1163 11s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics1.o
+[1085/1163  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/StaticInitialization.o
+[1086/1163  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/StringLiterals.o
+[1087/1163  7s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics2.o
+[1088/1163  6s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics4.o
+[1089/1163  1s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/TinyMethods.o
+[1107/1163  7s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics5.o
+[1109/1163  7s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics6.o
+[1125/1163  7s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics7.o
+[1127/1163  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Jobs.o
+[1129/1163  3s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Animation.o
+[1130/1163  4s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/TinyTypes.o
+[1133/1163  3s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Audio.o
+[1134/1163  7s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics9.o
+[1136/1163  5s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/TinyRacing.o
+[1140/1163  8s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Generics8.o
+[1147/1163  3s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.RendererExtras.o
+[1148/1163  3s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Particles.o
+[1149/1163  5s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Collections.o
+[1150/1163  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Text.o
+[1151/1163  2s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.ZeroJobs.o
+[1152/1163  3s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Scenes.o
+[1153/1163  3s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Transforms.o
+[1154/1163  6s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Rendering.o
+[1155/1163  5s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Tiny.Rendering.Native.o
+[1156/1163  9s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Entities.o
+[1157/1163  9s] C_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/ydfs/Unity.Physics.o
+[BUSY       6s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[BUSY      16s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+[1158/1163 26s] Link_WebGL_wasm artifacts/TinyRacing/tinyracing-wasm/TinyRacing.html (+wasm,js)
+emcc:WARNING: --llvm-lto ignored when using llvm backend
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\DotsRuntimeBuild\artifacts\Stevedore\winpython2-x64\WinPython-64bit-2.7.13.1Zero\python-2.7.13.amd64\lib\atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\DotsRuntimeBuild\artifacts\Stevedore\winpython2-x64\WinPython-64bit-2.7.13.1Zero\python-2.7.13.amd64\lib\multiprocessing\util.py", line 321, in _exit_function
+    p._popen.terminate()
+  File "D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\DotsRuntimeBuild\artifacts\Stevedore\winpython2-x64\WinPython-64bit-2.7.13.1Zero\python-2.7.13.amd64\lib\multiprocessing\forking.py", line 312, in terminate
+    _subprocess.TerminateProcess(int(self._handle), TERMINATE)
+WindowsError: [Error 5] 
+Error in sys.exitfunc:
+Traceback (most recent call last):
+  File "D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\DotsRuntimeBuild\artifacts\Stevedore\winpython2-x64\WinPython-64bit-2.7.13.1Zero\python-2.7.13.amd64\lib\atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\DotsRuntimeBuild\artifacts\Stevedore\winpython2-x64\WinPython-64bit-2.7.13.1Zero\python-2.7.13.amd64\lib\multiprocessing\util.py", line 321, in _exit_function
+    p._popen.terminate()
+  File "D:\Projects\UntiyExample\ProjectTinySamples-master\TinyRacing\Library\DotsRuntimeBuild\artifacts\Stevedore\winpython2-x64\WinPython-64bit-2.7.13.1Zero\python-2.7.13.amd64\lib\multiprocessing\forking.py", line 312, in terminate
+    _subprocess.TerminateProcess(int(self._handle), TERMINATE)
+WindowsError: [Error 5] 
+[1159/1163  0s] CopyTool ../../Builds/tinyracing-wasm/TinyRacing.js
+[1160/1163  0s] CopyTool ../../Builds/tinyracing-wasm/TinyRacing.wasm
+[1161/1163  0s] CopyTool ../../Builds/tinyracing-wasm/TinyRacing.html
+*** Bee build success (50.93 seconds), 44 items updated
